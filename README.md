@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-Linux, Windows, MacOS, Java, GitHub, Git, IntelliJ IDEA, VSC, Junit, Postman, JIRA, Report Portal, Selenium, SQL, Bash, Apache, REST, Docker, Docker-compose
+Linux, Windows, MacOS, Java, GitHub, Git, IntelliJ IDEA, VSC, Junit, Maven, CI, Appveyor, Postman, JIRA, Report Portal, Selenium, SQL, Bash, Apache, REST, Docker, Docker-compose
 
 ### Вот, что я умею
 
