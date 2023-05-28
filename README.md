@@ -7,7 +7,7 @@
 danilkovalev43481@gmail.com
 
 ### CV
-[CV](https://goo-gl.me/E1sFu)
+[CV](https://goo.su/U78xsl5)
 
 ### Программирование на Java
 
