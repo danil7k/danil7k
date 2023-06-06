@@ -11,22 +11,22 @@ danilkovalev43481@gmail.com
 
 ### Программирование на Java
 
-- GitHub CI с verify-сборкой Maven и JaCoCo (https://github.com/danil7k/Tournament)
-- Selenium (https://github.com/danil7k/CardOrder )
-- Selenide (https://github.com/danil7k/CardDeliveryOrder )
-- API (https://github.com/danil7k/PostmanEcho )
-- Patterns (https://github.com/danil7k/TestMode )
-- Page Object (https://github.com/danil7k/PageObject )
-- MySQL (https://github.com/danil7k/SQL )
-- PostgreSQL (https://github.com/danil7k/Docker )
-- Allure (https://github.com/danil7k/Allure )
-- Командный проект (https://github.com/danil7k/GameTracker )
+- [GitHub CI с verify-сборкой Maven и JaCoCo](https://github.com/danil7k/Tournament)
+- [Selenium](https://github.com/danil7k/CardOrder )
+- [Selenide](https://github.com/danil7k/CardDeliveryOrder )
+- [API](https://github.com/danil7k/PostmanEcho )
+- [Patterns](https://github.com/danil7k/TestMode )
+- [Page Object](https://github.com/danil7k/PageObject )
+- [MySQL](https://github.com/danil7k/SQL )
+- [PostgreSQL](https://github.com/danil7k/Docker )
+- [Allure](https://github.com/danil7k/Allure )
+- [Командный проект](https://github.com/danil7k/GameTracker )
 
 ### Тестовая документация
 
-- Чек-лист (https://goo.su/QmdStC)
-- Тестовый сценарий (https://goo.su/fZRnN)
-- Баг-репорт (https://goo.su/QUUOT, https://goo.su/r0mFA, https://goo.su/GBz37q, https://goo.su/WrH6z)
+- [Чек-лист](https://goo.su/QmdStC)
+- [Тестовый сценарий](https://goo.su/fZRnN)
+- Баг-репорт: [GoogleDocs](https://goo.su/QUUOT), [Jira](https://goo.su/r0mFA), [Jira](https://goo.su/GBz37q), [Jira](https://goo.su/WrH6z)
 
 ### Hard skills
 
