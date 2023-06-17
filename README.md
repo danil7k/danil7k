@@ -21,6 +21,7 @@ danilkovalev43481@gmail.com
 - [PostgreSQL](https://github.com/danil7k/Docker )
 - [Allure](https://github.com/danil7k/Allure )
 - [Командный проект](https://github.com/danil7k/GameTracker )
+- [Дипломный проект](https://github.com/danil7k/BuyATourApp)
 
 ### Тестовая документация
 
@@ -56,6 +57,10 @@ danilkovalev43481@gmail.com
 ### Soft skills
 
 Дисциплинированность, инициативность, любопытность и азарт, ответственность, внимательность к деталям, гибкость, поиск и анализ информации, умение задавать вопросы, умение сглаживать конфликты, организованность
+
+### Certificates
+
+[Software Tester](https://goo.su/dZwmfN)
 
 ### Languages
 
