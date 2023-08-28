@@ -20,8 +20,8 @@ danilkovalev43481@gmail.com
 - [MySQL](https://github.com/danil7k/SQL )
 - [PostgreSQL](https://github.com/danil7k/Docker )
 - [Allure](https://github.com/danil7k/Allure )
-- [Командный проект](https://github.com/danil7k/GameTracker )
-- [Дипломный проект](https://github.com/danil7k/BuyATourApp)
+- [Тестирование приложения для трекинга игровой активности](https://github.com/danil7k/GameTracker )
+- [Автоматизация тестирования комплексного сервиса онлайн покупки тура](https://github.com/danil7k/BuyATourApp)
 
 ### Тестовая документация
 
