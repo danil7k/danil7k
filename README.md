@@ -27,6 +27,7 @@ danilkovalev43481@gmail.com
 
 - [Чек-лист](https://goo.su/QmdStC)
 - Баг-репорт: [GoogleDocs](https://goo.su/YFZW), [GoogleDocs](https://goo.su/1AGn008), [Jira](https://goo.su/r0mFA), [Jira](https://goo.su/GBz37q), [Jira](https://goo.su/WrH6z)
+- Отчёты: [Отчёт по тестированию](https://github.com/danya794/ByATourApp/blob/main/docs/Report.md), [Отчёт о выполнении плана тестирования](https://github.com/danya794/ByATourApp/blob/main/docs/Summury.md)
 
 ### Hard skills
 
