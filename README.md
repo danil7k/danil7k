@@ -60,8 +60,8 @@ danilkovalev43481@gmail.com
 
 ### Certificates, Diploma
 
-[Software Tester](https://goo.su/dZwmfN)
-[Diploma](https://goo.su/XUfe8)
+- [Software Tester](https://goo.su/dZwmfN)  
+- [Diploma](https://goo.su/XUfe8)
 
 ### Languages
 
