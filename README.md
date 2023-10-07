@@ -34,7 +34,7 @@ danilkovalev43481@gmail.com
 - Ручное тестирование
 - Составление тест-кейсов, тест анализ и тест дизайн
 - Баг репортинг
-- UI тесты на Java
+- Unit тесты на Java
 - MySQL / PostgreSQL
 - HTML / CSS основы
 - ОС: MacOS, Windows
