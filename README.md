@@ -32,13 +32,14 @@ danilkovalev43481@gmail.com
 ### Hard skills
 
 - Ручное тестирование
-- Составление тест-кейсов, тест анализ и тест дизайн
+- Составление чек-листов, тест-кейсов, тест анализ и тест дизайн
 - Баг репортинг
 - Unit тесты на Java
 - MySQL / PostgreSQL
-- HTML / CSS основы
-- ОС: MacOS, Windows
+- SQL
+- HTML / CSS
 - Git, GitHub
+- ОС: MacOS, Windows
 
 ### Инструменты
 
